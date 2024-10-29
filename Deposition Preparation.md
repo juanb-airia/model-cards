@@ -11,6 +11,7 @@
 - **Summary:** This model is fine-tuned for drafting depositions, this model generates relevant questions based on case details.
 
 - **Architecture:**  gpt-4o-2024-08-06 fine-tuned.
+- **Recommended Temperature:** 0.1
 
 ## Intended Use
 
@@ -25,10 +26,10 @@
 - **Users:** Legal teams, including attorneys, paralegals, and in-house counsel who are responsible for preparing witnesses for depositions in litigation cases.
   
 ### Sample interaction
-- **Sample User Input:**: 
-  - "Can you describe the events leading up to the incident on [date]?"
-  - "Is it true that you were aware of the contract's termination clause before signing?"
-  - " [link or text of the contract]
+- **Sample User Input**: 
+  - Can you describe the events leading up to the incident on [date]?
+  - Is it true that you were aware of the contract's termination clause before signing?
+  - [link or text of the contract]
 - **Sample Assistant Output:**
   - List of mock questions
   - Timeline of events

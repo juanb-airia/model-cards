@@ -4,15 +4,16 @@
 
 ### Model Name
 
-- **Name:** ft:gpt-4o-2024-08-06:airia:contract-obligation-tracking-2024-10-08:AGFche8f
-- **Version:** 1.0
-- **Date of Release:** 2024-10-08
+- **Name:** ft:gpt-4o-2024-08-06:airia:contract-obligation-tracking-2024-10-11:AHA8kb5J
+- **Version:** 1.1
+- **Date of Release:** 2024-10-11
 
 ### Description
 
 - **Summary:** Airia's Contract Obligation Tracking and Compliance 4o model generates comprehensive lists of key contractual obligations and compliance timelines based on the contents of a given contract. It identifies critical deadlines and assesses their urgency, providing legal teams with a clear overview of responsibilities and time-sensitive tasks to ensure thorough contract compliance.
 
 - **Architecture:** gpt-4o-2024-08-06 fine-tuned.
+- **Recommended Temperature:** 0.1
 
 ## Intended Use
 
@@ -60,14 +61,20 @@
 
 | Version Number | Release Date | New Features                  | Bug Fixes                   | Performance Improvements     |
 |----------------|--------------|-------------------------------|-----------------------------|------------------------------|
-| 1.0            | 2024-10-08  | Initial release               | N/A | N/A |
+| 1.0            | 2024-10-08   | Initial release               | N/A | N/A |
+| 1.1            | 2024-10-11   | Updated Training Data         | N/A | N/A |
 
 ### Release Notes
 
 #### Version Changes
 
 - **v1.0** (Release Date: 2024-10-08)
+  - Model name: ft:gpt-4o-2024-08-06:airia:contract-obligation-tracking-2024-10-08:AGFche8f
   - Initial release.
+
+- **v1.1** (Release Date: 2024-10-11)
+  - Model name: ft:gpt-4o-2024-08-06:airia:contract-obligation-tracking-2024-10-11:AHA8kb5J
+  - Updated Training Data
 
 ## Contact Information
 
